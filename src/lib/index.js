@@ -1,5 +1,5 @@
-import { AppState } from './AppState';
-import { VMUtil } from './VMUtil';
+import AppState from './AppState';
+import VMUtil from './VMUtil';
 
 export {
   AppState,
