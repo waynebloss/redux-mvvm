@@ -15,7 +15,13 @@
     "test": "node scripts/test.js --env=jsdom"
   },
   "dependencies": {},
-  "peerDependencies": {},
+  "peerDependencies": {
+    "react": "*",
+    "react-redux": "*",
+    "redux": "*",
+    "redux-first-router": "*",
+    "redux-persist": "*"
+  },
   "devDependencies": {
     "autoprefixer": "7.1.2",
     "babel-cli": "^6.26.0",
