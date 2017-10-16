@@ -20,6 +20,7 @@
     "react-redux": "*",
     "redux": "*",
     "redux-first-router": "*",
+    "redux-logger": "*",
     "redux-persist": "*"
   },
   "devDependencies": {
